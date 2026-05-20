@@ -24,6 +24,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/leidosinc
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/leidos
   - type: Website
     url: https://www.leidos.com
   - type: Investor Relations

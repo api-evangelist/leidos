@@ -24,6 +24,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/leidos-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/leidosinc
   - type: LinkedIn
@@ -32,6 +34,8 @@ common:
     url: https://www.leidos.com
   - type: Investor Relations
     url: https://investors.leidos.com
+  - url: https://www.leidos.com/insights
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

@@ -1,7 +1,9 @@
 ---
 title: Leidos, Dropzone AI to accelerate federal agencies' cyber ...
 url: https://investors.leidos.com/news-releases/news-release-details/leidos-dropzone-ai-accelerate-federal-agencies-cyber-responses
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Leidos Holdings" press release artificial intelligence'
 position: 3
 source: serpapi-google

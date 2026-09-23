@@ -1,7 +1,9 @@
 ---
 title: Leidos Holdings, Inc. News and Press Releases
 url: https://www.prnewswire.com/news/leidos-holdings%2C-inc./
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Leidos Holdings" press release artificial intelligence'
 position: 2
 source: serpapi-google

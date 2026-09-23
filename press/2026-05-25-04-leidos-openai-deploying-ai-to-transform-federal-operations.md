@@ -1,7 +1,9 @@
 ---
 title: Leidos, OpenAI deploying AI to transform federal operations
 url: https://investors.leidos.com/news-releases/news-release-details/leidos-openai-deploying-ai-transform-federal-operations
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Leidos Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google
